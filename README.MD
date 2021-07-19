@@ -1,7 +1,7 @@
 # Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL
 
-## Project Steps
+# Project Steps
 
 1. Create a new project with PyCharm
 2. Create the files and folder in the root directory of the project (.gitignore, app, db, screenshots, docker-compose.yml, README.MD)
@@ -12,7 +12,7 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 # Postman Screenshot
 ![postman request output](screenshots/postman.png)
 
-#SQL Data Screenshot
+# SQL Data Screenshot
 ![pycharm data query](screenshots/dataQuery.png)
 
 
