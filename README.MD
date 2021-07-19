@@ -1,4 +1,4 @@
-#Project Description
+# Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL
 
 ## Project Steps
@@ -9,7 +9,7 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 4. Created an "init.sql" file wthin the "db" directory of the project and added the contents to it.
 5. Run the project and view the results in postman.
 
-#Postman Screenshot
+# Postman Screenshot
 ![postman request output](screenshots/postman.png)
 
 #SQL Data Screenshot
